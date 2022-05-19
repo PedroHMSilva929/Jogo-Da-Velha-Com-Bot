@@ -1,7 +1,9 @@
 # Jogo-Da-Velha-Com-Bot
 
 ## Descrição do projeto:
-Projeto desenvolvido com o objetivo de <b>criar um <i>jogo da velha</i></b>, no qual a pessoa joga, <i>obrigatoriamente</i>, contra um <b><i>bot</i></b>.
+Projeto desenvolvido com o objetivo de <b>criar um <i>jogo da velha</i></b>, no qual a pessoa joga, <i>obrigatoriamente</i>, contra um <b><i>bot</i></b>. 
+
+O foco não foi trabalhar com a responsividade.
 
 ## Tecnologias utilizadas:
 As tecnologias utilizadas foram: <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>.
