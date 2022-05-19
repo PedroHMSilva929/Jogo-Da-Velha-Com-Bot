@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Poppins&display=swap');
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-image: linear-gradient(to left, #0f0c29, #302b63, #24243e);
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: Poppins;
+    font-size: 33px;
+    font-weight: 800;
+    color: #04D4F0;
+    text-align: center;
+    margin-top: 1px;
+}
+
+h2, h3 {
+    font-family: "Fugaz One";
+    font-size: 35px;
+    text-align: center;
+}
+
+#tela-escura {
+    font-family: "Fugaz One";
+    font-size: 33px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 160px;
+    width: 100%;
+    height: 100%;
+    opacity: 0.95;
+    display: none;
+    position: absolute;
+    background-color: #000000;
+}
+
+.container {
+    padding: 20px;  /* Epaçamento interno */  
+    margin: 0 auto;
+    max-width: 240px;
+    border-radius: 10px;
+    border: 5px solid black;
+}
+
+.grid {
+    display: flex;
+    flex-flow: row wrap;  /* As células fcarão uma do lado da outra e, quando não couber mais, joga para baixo. */
+    justify-content: space-evenly;  /* As células ficarão espaçadas igualmente entre si. */
+}
+
+.celula {
+    width: 75px;
+    height: 65px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 30pt;
+    font-weight: 400;
+    margin: 4px 2px;  /* 4px em cima e embaixo; 2px à esquerda e à direita. */
+    padding-top: 10px;  /* Espaçamento interno até o topo da page. */
+    border-radius: 3px;
+    text-align: center;
+    background-color: dodgerblue;
+}
