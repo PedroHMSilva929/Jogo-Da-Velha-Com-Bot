@@ -1,4 +1,4 @@
-# Jogo-Da-Velha-Com-Bot
+# Jogo-da-Velha-Com-Bot
 
 ## Descrição do projeto:
 Projeto desenvolvido com o objetivo de <b>criar um <i>jogo da velha</i></b>, no qual a pessoa joga, <i>obrigatoriamente</i>, contra um <b><i>bot</i></b>. 
