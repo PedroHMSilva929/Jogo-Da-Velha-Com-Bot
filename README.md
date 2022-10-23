@@ -14,5 +14,5 @@ Nesse projeto, <b>aprofundei meus conhecimentos em <i>lógica de programação</
 ## Desafios enfrentados:
 O principal desafio foi a <b>criação do bot</b>, seguindo pela <b>lógica</b> que eu deveria utilizar para <b>manipular o preenchimento das casas</b>.
 
-## Link do repositório do projeto:
-https://github.com/PedroHMSilva929/Jogo-Da-Velha-Com-Bot
+## Como ficou o projeto:
+![jogo_da_velha](https://user-images.githubusercontent.com/83307765/197417645-837a46d7-5af6-40f9-bf57-ebb378ced3da.png)
